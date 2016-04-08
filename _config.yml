@@ -1,0 +1,28 @@
+name: jenwilliams
+favicon: null
+layout_spectrum: 0.995631092460826
+typography_spectrum: 0.2223760646302253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5388971206266433
+  lightness: 0.33177414699457586
+  saturation: 0.9947331382427365
+  rhythmicContrast: 0.9011443620547652
+purpose: []
